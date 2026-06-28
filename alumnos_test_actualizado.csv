@@ -1,0 +1,17 @@
+﻿ID_Alumno,Nombre,Sexo,Trabaja,Matematicas,Contabilidad_I,Habilidades_Pensamiento,Estado_Estimado
+001,Alejandro Torres,M,No,9.5,8.8,9.0,Regular - Alto Rendimiento
+002,Sofía Hernández,F,Sí,4.5,7.0,8.5,Riesgo (Matematicas)
+003,Carlos Mendoza,M,Sí,6.0,5.5,7.0,Riesgo Moderado
+004,Valeria Gómez,F,No,8.0,9.2,8.8,Regular - Alto Rendimiento
+005,Jorge Ramírez,M,Sí,3.0,4.0,6.5,Riesgo Critico
+006,Ana Paula Ruiz,F,No,9.0,6.0,8.0,Regular
+007,Diego López,M,No,5.5,8.0,7.5,Riesgo Leve
+008,Mariana Castro,F,No,10.0,9.5,9.5,Regular - Alto Rendimiento
+009,Fernando Ortiz,M,Sí,4.0,5.0,6.0,Riesgo Critico
+010,Elena Vázquez,F,Sí,7.5,7.0,8.0,Regular
+011,Jorge Ramírez,M,Sí,3.0,4.0,6.5,Riesgo Critico
+012,Ana Paula Ruiz,F,No,2.0,6.0,8.0,Riesgo (Matematicas)
+013,Diego López,M,No,5.5,8.0,7.5,Riesgo Leve
+014,Mariana Castro,F,No,10.0,9.5,9.5,Regular - Alto Rendimiento
+015,Fernando Ortiz,M,Sí,4.0,5.0,6.0,Riesgo (Matematicas)
+016,Elena Vázquez,F,Sí,3.5,7.0,8.0,Riesgo (Matematicas)
